@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="1d789792-f4af-49e2-9a1d-bdc07bf4c612" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jenkinsfile" beforeDir="false" afterPath="$PROJECT_DIR$/Jenkinsfile" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,8 +28,9 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
     <property name="go.import.settings.migrated" value="true" />
-    <property name="last_opened_file_path" value="$USER_HOME$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
@@ -40,6 +42,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1599396382412</updated>
+      <workItem from="1599401150804" duration="7000" />
     </task>
     <servers />
   </component>
@@ -47,6 +50,10 @@
     <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="558" y="311" width="794" height="421" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1599398593031">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="558" y="311" width="794" height="421" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040/1920.0.1920.1080@0.0.1920.1040" timestamp="1599398593031" />
     <state x="419" y="155" width="1082" height="733" key="SettingsEditor" timestamp="1599397050488">
       <screen x="0" y="0" width="3840" height="1040" />
     </state>
